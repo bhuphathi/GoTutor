@@ -1,0 +1,1 @@
+1. go mod init GoTutor (init new Go Project)
